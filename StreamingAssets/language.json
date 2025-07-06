@@ -1,0 +1,45 @@
+{
+  "_meta": {
+    "maxChars": {
+      "map_game_completed": 15,
+      "common_level": 10,
+      "common_play": 10,
+      "common_close": 10,
+      "common_quit": 10,
+      "common_whole": 10
+    }
+  },
+  "en": {
+    "start": "Start",
+    "level": "Level",
+    "play": "Play",
+    "close": "Close",
+    "quit": "Quit",
+    "continue": "Continue",
+    "restart": "Restart",
+    "level_title1": "Recessive Trait",
+    "level_title2": "Dominant Trait",
+    "level_title3": "Incomplete Dominant Trait",
+    "level_title4": "Codominant Trait",
+    "level_title5": "Polygenetic Trait",
+    "level_title6": "Genemon Museum",
+    "level_title7": "Genemon Arena",
+    "tutorial_0_pre1" : "Welcome to the world of Genemon! A world filled with incredible creatures! My name is Professor Violet and I am here to guide you!",
+    "tutorial_0_main_1" : "Every Genemon have several traits that comes from something deep inside them — their genes. The combination of these genes make them unique and different!",
+    "tutorial_0_main_2" : "Genes are tiny instructions inside a Genemon’s body. They decide what traits it will have.",
+    "tutorial_0_post_0" : "Alright, I think you are ready now to start the adventure! Let's breed and battle Genemons!"
+   
+  },
+  "es": {
+   
+  },
+  "zh": {
+   
+  },
+  "jp": {
+   
+  },
+  "ru": {
+   
+  }
+}
